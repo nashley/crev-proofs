@@ -17,3 +17,22 @@ comment: |-
 SnjbHgrEveZb0F5J1mUIucL0zPR3ldNUIbsrlymEyrzOZxlgvadSCJhC4MeFcxRCb6Sc37XEVI7yGtg4acqwBw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2021-01-16T22:18:50.593637030+00:00"
+from:
+  id-type: crev
+  id: hjecU75RTojvhP6szw9yHkTupFDpOZYdE2bA6jj4VC8
+  url: "https://github.com/nashley/crev-proofs"
+ids:
+  - id-type: crev
+    id: VylyTuk8CMGqIxgHixWaqfiUn3xZyzOA1wFrQ0sR1As
+    url: "https://github.com/BurntSushi/crev-proofs"
+trust: medium
+comment: |-
+  Author of regex crate
+----- SIGN CREV PROOF -----
+9KIPRjAHAMl2KgqcwdblPidyN9YY65k9T0PN-3knB-xj2Yb-TRGdBoD3tnXlrT23W77Sr1b6Pilypft2gNBIDQ
+----- END CREV PROOF -----
+
