@@ -55,3 +55,22 @@ comment: |-
 04v5jEPGLKsnlTcHYGnGE456ZmC_xxuMKcq0AD492bfzfGN_v0vYXpl-SpKVoEDCApSoglIe81ZmM1WHZg35Dw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2021-01-16T22:34:58.466721826+00:00"
+from:
+  id-type: crev
+  id: hjecU75RTojvhP6szw9yHkTupFDpOZYdE2bA6jj4VC8
+  url: "https://github.com/nashley/crev-proofs"
+ids:
+  - id-type: crev
+    id: W-RXYmWCrsXJWinxMMdjCjR9ywGlH9srvMi0cmYL2rI
+    url: "https://gitlab.com/chrysn/auto-crev-proofs"
+trust: none
+comment: |-
+  Automatically-updated network of other users; not to be trusted
+----- SIGN CREV PROOF -----
+UKSFXHt42xPoF4o_-QPQR0T9GCKmu3IT38tQDsXHw6zGOc2mkMRKCZ8l0qYC6zQVb44GBFdetzebwz01mTWZCA
+----- END CREV PROOF -----
+
